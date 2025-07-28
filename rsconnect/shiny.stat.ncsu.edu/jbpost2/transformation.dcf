@@ -1,0 +1,12 @@
+name: transformation
+title: Transformation
+username: jbpost2
+account: jbpost2
+server: shiny.stat.ncsu.edu
+hostUrl: https://shiny.stat.ncsu.edu/__api__
+appId: 36
+bundleId: 74
+url: https://shiny.stat.ncsu.edu/content/e256b654-f93c-4606-98f2-aa05fb79276d/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE
